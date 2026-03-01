@@ -1,0 +1,144 @@
+{
+  "city_stats": {
+    "北京市地铁": {
+      "lines": 27,
+      "stations": 525
+    },
+    "广州市地铁": {
+      "lines": 21,
+      "stations": 389
+    },
+    "天津市地铁": {
+      "lines": 12,
+      "stations": 221
+    },
+    "石家庄市地铁": {
+      "lines": 3,
+      "stations": 63
+    },
+    "沈阳市地铁": {
+      "lines": 6,
+      "stations": 146
+    },
+    "大连市地铁": {
+      "lines": 8,
+      "stations": 120
+    },
+    "长春市地铁": {
+      "lines": 6,
+      "stations": 131
+    },
+    "南京市地铁": {
+      "lines": 13,
+      "stations": 267
+    },
+    "无锡市地铁": {
+      "lines": 5,
+      "stations": 97
+    },
+    "苏州市地铁": {
+      "lines": 9,
+      "stations": 275
+    },
+    "南通市地铁": {
+      "lines": 2,
+      "stations": 44
+    },
+    "杭州市地铁": {
+      "lines": 14,
+      "stations": 327
+    },
+    "宁波市地铁": {
+      "lines": 8,
+      "stations": 200
+    },
+    "温州市地铁": {
+      "lines": 2,
+      "stations": 38
+    },
+    "福州市地铁": {
+      "lines": 6,
+      "stations": 119
+    },
+    "厦门市地铁": {
+      "lines": 3,
+      "stations": 75
+    },
+    "南昌市地铁": {
+      "lines": 4,
+      "stations": 122
+    },
+    "济南市地铁": {
+      "lines": 8,
+      "stations": 155
+    },
+    "郑州市地铁": {
+      "lines": 13,
+      "stations": 286
+    },
+    "武汉市地铁": {
+      "lines": 12,
+      "stations": 312
+    },
+    "长沙市地铁": {
+      "lines": 7,
+      "stations": 161
+    },
+    "佛山市地铁": {
+      "lines": 5,
+      "stations": 93
+    },
+    "东莞市地铁": {
+      "lines": 2,
+      "stations": 40
+    },
+    "南宁市地铁": {
+      "lines": 5,
+      "stations": 106
+    },
+    "重庆市地铁": {
+      "lines": 15,
+      "stations": 327
+    },
+    "成都市地铁": {
+      "lines": 17,
+      "stations": 452
+    },
+    "昆明市地铁": {
+      "lines": 6,
+      "stations": 110
+    },
+    "西安市地铁": {
+      "lines": 12,
+      "stations": 284
+    },
+    "乌鲁木齐市地铁": {
+      "lines": 2,
+      "stations": 23
+    },
+    "上海市地铁": {
+      "lines": 21,
+      "stations": 522
+    },
+    "深圳市地铁": {
+      "lines": 17,
+      "stations": 432
+    }
+  },
+  "reversed_pairs": [
+    {
+      "line": "6号线",
+      "station1": "沙河",
+      "station1_pos": 15,
+      "station2": "河沙",
+      "station2_pos": 29,
+      "city": "广州市地铁"
+    }
+  ],
+  "summary": {
+    "total_cities": 31,
+    "total_lines": 291,
+    "total_stations": 6462,
+    "reversed_pairs_count": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "same_line_reversals": [
+    {
+      "city": "广州市地铁",
+      "type": "cross_line_char_reversal",
+      "station1": "沙河",
+      "station1_lines": [
+        "11号线",
+        "6号线"
+      ],
+      "station2": "河沙",
+      "station2_lines": [
+        "6号线"
+      ],
+      "same_line": true
+    }
+  ],
+  "cross_line_reversals": [
+    {
+      "city": "成都市地铁",
+      "type": "cross_line_char_reversal",
+      "station1": "光明",
+      "station1_lines": [
+        "30号线"
+      ],
+      "station2": "明光",
+      "station2_lines": [
+        "19号线"
+      ],
+      "same_line": false
+    }
+  ],
+  "pinyin_reversals": [],
+  "homophones": [
+    {
+      "city": "北京市地铁",
+      "type": "homophone",
+      "station1": "关庄",
+      "station2": "管庄",
+      "pinyin": "guanzhuang"
+    },
+    {
+      "city": "广州市地铁",
+      "type": "homophone",
+      "station1": "晓港",
+      "station2": "萧岗",
+      "pinyin": "xiaogang"
+    }
+  ]
+}

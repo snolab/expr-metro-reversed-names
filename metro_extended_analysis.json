@@ -1,0 +1,66 @@
+{
+  "cross_line_reversals": [
+    {
+      "city": "成都市地铁",
+      "station1": "明光",
+      "station1_lines": [
+        "19号线"
+      ],
+      "station2": "光明",
+      "station2_lines": [
+        "30号线"
+      ]
+    }
+  ],
+  "palindromes": [
+    {
+      "city": "北京市地铁",
+      "type": "palindrome",
+      "station": "园博园",
+      "lines": [
+        "14号线"
+      ]
+    },
+    {
+      "city": "北京市地铁",
+      "type": "palindrome",
+      "station": "北海北",
+      "lines": [
+        "6号线"
+      ]
+    },
+    {
+      "city": "石家庄市地铁",
+      "type": "palindrome",
+      "station": "园博园",
+      "lines": [
+        "1号线"
+      ]
+    },
+    {
+      "city": "济南市地铁",
+      "type": "palindrome",
+      "station": "园博园",
+      "lines": [
+        "1号线"
+      ]
+    },
+    {
+      "city": "武汉市地铁",
+      "type": "palindrome",
+      "station": "园博园",
+      "lines": [
+        "7号线"
+      ]
+    },
+    {
+      "city": "重庆市地铁",
+      "type": "palindrome",
+      "station": "园博园",
+      "lines": [
+        "3号线"
+      ]
+    }
+  ],
+  "adjacent_swaps": []
+}
