@@ -1,0 +1,122 @@
+{
+  "same_line_reversals": [
+    {
+      "city": "广州市地铁",
+      "lines": [
+        "6号线"
+      ],
+      "station1": "沙河",
+      "station2": "河沙"
+    }
+  ],
+  "same_city_cross_line": [
+    {
+      "city": "成都市地铁",
+      "station1": "光明",
+      "station1_lines": [
+        "30号线"
+      ],
+      "station2": "明光",
+      "station2_lines": [
+        "19号线"
+      ]
+    }
+  ],
+  "cross_city_reversals": [
+    {
+      "station1": "沙河",
+      "station1_cities": [
+        "北京市地铁",
+        "广州市地铁"
+      ],
+      "station2": "河沙",
+      "station2_cities": [
+        "广州市地铁"
+      ]
+    },
+    {
+      "station1": "龙华",
+      "station1_cities": [
+        "深圳市地铁",
+        "上海市地铁",
+        "长沙市地铁"
+      ],
+      "station2": "华龙",
+      "station2_cities": [
+        "重庆市地铁"
+      ]
+    },
+    {
+      "station1": "光明",
+      "station1_cities": [
+        "深圳市地铁",
+        "成都市地铁"
+      ],
+      "station2": "明光",
+      "station2_cities": [
+        "成都市地铁"
+      ]
+    },
+    {
+      "station1": "福永",
+      "station1_cities": [
+        "深圳市地铁"
+      ],
+      "station2": "永福",
+      "station2_cities": [
+        "杭州市地铁"
+      ]
+    },
+    {
+      "station1": "平安",
+      "station1_cities": [
+        "重庆市地铁"
+      ],
+      "station2": "安平",
+      "station2_cities": [
+        "福州市地铁"
+      ]
+    },
+    {
+      "station1": "新立",
+      "station1_cities": [
+        "天津市地铁"
+      ],
+      "station2": "立新",
+      "station2_cities": [
+        "东莞市地铁"
+      ]
+    },
+    {
+      "station1": "水泉",
+      "station1_cities": [
+        "沈阳市地铁"
+      ],
+      "station2": "泉水",
+      "station2_cities": [
+        "大连市地铁"
+      ]
+    },
+    {
+      "station1": "岭北",
+      "station1_cities": [
+        "南昌市地铁"
+      ],
+      "station2": "北岭",
+      "station2_cities": [
+        "青岛市地铁"
+      ]
+    },
+    {
+      "station1": "平西",
+      "station1_cities": [
+        "佛山市地铁"
+      ],
+      "station2": "西平",
+      "station2_cities": [
+        "东莞市地铁"
+      ]
+    }
+  ],
+  "total_unique_stations": 5474
+}

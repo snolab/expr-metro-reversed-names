@@ -15,10 +15,23 @@ Analysis of reversed metro station names in China and globally.
 
 **This is the only example in China!**
 
-### Cross-Line Reversal (1 pair)
+### Same City Cross-Line Reversal (1 pair)
 | City | Stations | Lines |
 |------|----------|-------|
 | 成都 | 光明 ↔ 明光 | 30号线 ↔ 19号线 |
+
+### Cross-City Reversals (9 pairs)
+| Station 1 | City 1 | Station 2 | City 2 |
+|-----------|--------|-----------|--------|
+| 龙华 | 深圳/上海/长沙 | 华龙 | 重庆 |
+| 福永 | 深圳 | 永福 | 杭州 |
+| 平安 | 重庆 | 安平 | 福州 |
+| 新立 | 天津 | 立新 | 东莞 |
+| 水泉 | 沈阳 | 泉水 | 大连 |
+| 岭北 | 南昌 | 北岭 | 青岛 |
+| 平西 | 佛山 | 西平 | 东莞 |
+| 光明 | 深圳/成都 | 明光 | 成都 |
+| 沙河 | 北京/广州 | 河沙 | 广州 |
 
 ### Homophones (2 pairs)
 | City | Stations | Pinyin |
@@ -40,6 +53,7 @@ Analysis of reversed metro station names in China and globally.
 - `analyze_metro.py` - Basic same-line reversal analysis
 - `analyze_metro_extended.py` - Extended analysis with palindromes
 - `analyze_relaxed.py` - Relaxed constraints (cross-line, pinyin)
+- `analyze_nationwide.py` - Cross-city nationwide analysis
 
 ## Usage
 
